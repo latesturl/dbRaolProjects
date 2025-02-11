@@ -1,4 +1,6 @@
-{
-  "username": "LatestURL",
-  "password": "admin#123"
-}
+[
+  {
+    "username": "admin",
+    "password": "admin#123"
+  }
+]
