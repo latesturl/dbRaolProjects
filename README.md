@@ -7,8 +7,16 @@
 ## INFORMATION RaolProjects ✨
 - **CREATOR BASE: Fauzialifatah**
 - **RECODER BASE: Raol Mukarrozi**
-- **TYPE: CASE & PLUGINS (CJS)**
+- **TYPE: CASE X PLUGINS (CJS)**
 - **NO ENC 100%**
 
 ## LIST FITURE
 - **SOON**
+
+## Contact Me:
+- **Gmail: latesturltech@gmail.com**
+- **Website: SOON**
+- **WhatsApp: SOON**
+
+
+**© 2025 RaolProjects. All rights reserved**
