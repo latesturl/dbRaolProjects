@@ -1,6 +1,6 @@
 ## INFORMATION DBRaolProjects ✨
 ### **SETTING DBRaolProjects**
 ```
-( COMMING SOON )
+COMMING SOON
 ```
 **© 2025 RaolProjects. All rights reserved**
